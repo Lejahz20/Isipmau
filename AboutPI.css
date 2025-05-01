@@ -1,0 +1,50 @@
+body{
+  background-color: aquamarine;
+}
+
+h1{
+  text-align: center;
+  font-family: serif;
+}
+
+img{
+  height: 150px;
+  width:150 px;
+  margin-left :28%;
+  margin-top: 15px;
+  border: 6px brown;
+  border-radius:100px;
+  border: solid red;
+}
+p{
+  color: black;
+  background-color: antiquewhite;
+  text-align: center;
+  
+}
+.una{
+  background-color: royalblue;
+  text-align: center; 
+  color: white;
+  padding-left: 10px;
+  background-image: url(images/bganime.jpeg)
+}
+.gon{
+  color: chartreuse;
+}
+}
+.animes{
+  border-radius: 50px;
+  padding-right: 50px;
+}
+.ran{
+  color: red;
+}
+.duwa{
+  background-color: royalblue;
+  text-align: center; 
+  color: white; 
+  padding: 10px;
+  background-image: url(images/sportbackground.jpeg)
+}
+
